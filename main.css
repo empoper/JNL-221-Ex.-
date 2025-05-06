@@ -1,0 +1,94 @@
+.spectral-extralight {
+  font-family: "Spectral", serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.Headline {
+	font-family: spectral, sans-serif;
+	font-size: 15px;
+}
+
+body {
+	max-width: 700px;
+	font-family: Spectral, sans-serif;
+	font-size: 20pxpx;
+
+}
+
+.site-banner{
+	background-color: black;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 8px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.logo {
+ 	width: 170px;
+ }
+
+ .news-section {
+	font-family: Spectral, sans-serif;
+	font-size: 14px;
+	margin-top: 32px;
+}
+
+.news-section {
+	font-weight: bold;
+}
+
+h1{
+	font-family: Spectral, sans-serif;
+	font-size: 34px;
+	margin-bottom: 0px;
+	
+}
+
+.deck {
+	font-size: 20px;
+
+}
+.byline {
+	font-size: 16px;
+	margin-bottom: 2px;
+}
+
+.publish-date{
+	font-size: 14px;
+	margin-top: 0px;
+	color: #666666;
+}
+
+.line{
+	max-width: 700px;
+	border-top: solid;
+	border-top-width: 1px;
+	border-top-color: black;
+}
+
+.photo-caption{
+	color: #666666;
+	font-size: 14px;
+	margin-top: 0px;
+	line-height: 18px;
+	font-family: Spectral, sans-serif;
+}
+
+img {
+	width: 100%;
+}
+
+
+.story-footer h2{
+ 	font-family: Spectral, sans-serif;
+	font-size: 28px;
+	margin-bottom: 0px;
+	font-weight: normal;
+	
+ }
+
+
+
+
